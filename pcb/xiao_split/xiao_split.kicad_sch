@@ -1,0 +1,439 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 37c403cb-5c97-4b1c-9cf6-a7f14f77a25d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 153.3652 13.8684) (size 133.1976 72.4916) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 82f42e83-3f9c-4cda-a94c-dd1e5e6a4443)
+    (property "Sheet name" "Untitled Sheet" (id 0) (at 153.3652 13.1568 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "base_circuit_right.kicad_sch" (id 1) (at 153.3652 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 12.0904 12.9032) (size 139.9032 73.0504) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid a8642825-3bf3-44d9-925d-2b665ba46461)
+    (property "Sheet name" "Base_circuit" (id 0) (at 12.0904 12.1916 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "base_circuit.kicad_sch" (id 1) (at 12.0904 86.5382 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461" (page "2"))
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443" (page "3"))
+  )
+
+  (symbol_instances
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/da49e0e3-8519-4589-ba77-380a860a6ac7"
+      (reference "D1") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/47e5c93a-c804-4335-af1f-1744008829c3"
+      (reference "D2") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/9d61f9a5-05e8-4806-82d4-4f56ea5906a8"
+      (reference "D3") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/d34c55b2-d125-45c8-bd48-539683663512"
+      (reference "D4") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/86bc5fbc-8e2b-470b-85ed-cd22c9c189d0"
+      (reference "D5") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/76deaeb2-92ed-4b96-a7e2-139968ae3758"
+      (reference "D6") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/09a4ce34-ad86-4c32-8b6d-2a6c6a6b4c8c"
+      (reference "D7") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/9133d6a7-72a7-4cfa-bc7c-51dc2f1c4c09"
+      (reference "D8") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/0f9400f5-cff8-4e27-a13c-48c4ee07a619"
+      (reference "D9") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/346a7930-e0e9-4944-b8aa-d01b15eb16ba"
+      (reference "D10") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/e61302d3-3e0c-4ca6-b2b7-d0e6d0cd71f0"
+      (reference "D11") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/7b4e1df3-0f03-41fc-aaf6-6f7a072c20cd"
+      (reference "D12") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/3b836a4e-e911-4259-a4fa-7aa505742749"
+      (reference "D13") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/f81d3fa5-f475-4346-a764-ac406f43f60b"
+      (reference "D14") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/cfcc45c2-e3f3-4331-b9fe-bcfce6e67b99"
+      (reference "D15") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/10c1ac9c-8273-4b66-8e96-1fac164b56de"
+      (reference "D16") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/b0227fe0-4393-469a-b897-39c21fe5062c"
+      (reference "D17") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/fd471553-576b-42a3-83bd-c2ad92037235"
+      (reference "D18") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/b2c80c91-874c-4a14-8a63-f1c000de1f67"
+      (reference "D19") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/7ce591db-9a09-494b-aa26-a566384ac06b"
+      (reference "D20") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/964e43f1-d9b1-4a1f-a08c-ba0b7f8ace2e"
+      (reference "D21") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/d532c13e-9b49-4148-92d1-929f84d0f869"
+      (reference "D22") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/9e463262-bcfd-48ca-b8e9-f01df6b84473"
+      (reference "D23") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/8fef2216-0748-4a59-bc0d-3fa1f6d701cc"
+      (reference "D24") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/ac603862-20c9-4104-b33c-a0d7b7674063"
+      (reference "D25") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/c1f07e5c-ec12-4efa-b253-c4a661fd5705"
+      (reference "D26") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/6807100f-a5ec-4a37-94c6-34fa294b9e4b"
+      (reference "D27") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/67578933-290b-4e5b-9cd6-9cd2e05ac282"
+      (reference "D28") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/347dacbb-ba8e-49eb-aa84-f1fb9f313889"
+      (reference "D29") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/8043ad6c-d682-4e19-b3f7-ee913fd019f9"
+      (reference "D30") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a1d0e80c-fe43-44cc-9eff-d4c04b626311"
+      (reference "D31") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/f7563c12-b637-4d40-b20a-c121b0bf426b"
+      (reference "D32") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/108754b4-b745-41f1-842c-a5ebeeb07c6b"
+      (reference "D33") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/f7769905-b3a3-4894-8245-dd3784fe730f"
+      (reference "D34") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/742903db-a9c3-4f98-a4e7-4ec6ee2a753b"
+      (reference "D35") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ca700f30-4cb6-43a7-b585-134430f4d1b7"
+      (reference "D36") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a22caff9-10e7-43d7-b407-efa5b22b6d9b"
+      (reference "D37") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/04e2b669-25b3-40f2-974b-f8552ed9db0a"
+      (reference "D38") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/1859dd5c-22ee-4675-ae49-0a2d0d545dd3"
+      (reference "D39") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/26b40b37-7ade-4eff-9397-9b61bfcfc958"
+      (reference "D40") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/d8cef00e-1fa7-49a5-aea3-677ad57698f5"
+      (reference "D41") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ceee7736-ca21-46bd-9c16-8a6fba196f08"
+      (reference "D42") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/fbfbc974-3aab-45f1-8676-d14e07919d4a"
+      (reference "D43") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/496b1d3e-ed15-41f8-b31b-2f74fa72f36a"
+      (reference "D44") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/bce8ae14-3c2a-4a41-b725-6e9c98f1ad98"
+      (reference "D45") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e7848afc-14dc-440a-b6f3-cdfb7a8052e2"
+      (reference "D46") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e1449347-1347-4646-9e06-d5e29f6dc31f"
+      (reference "D47") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ea30170c-8974-48b1-92e0-ebbba5c21b5d"
+      (reference "D48") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/14f0caa1-7c2e-427c-b617-27c1ae71468b"
+      (reference "D49") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/0d19df2f-febb-4842-9daa-fe998bd02eb8"
+      (reference "D50") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3cbcb9e6-87ed-4de6-9ea0-e4e1dcd9a411"
+      (reference "D51") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/cf2bddb8-cd43-4cab-8dd1-1d8a54d67bb7"
+      (reference "D52") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/9dab5cfb-2232-4999-a2e0-ff2a4dff7dd7"
+      (reference "D53") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3fec230c-b1d8-4502-a72b-cd0aa9b04667"
+      (reference "D54") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/2724aadd-e449-499a-aa59-f6f17c1cbacc"
+      (reference "D55") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e698294f-b5a7-4c19-b15f-cffc3400b605"
+      (reference "D56") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/7527cee7-d41c-412f-bb52-7fcec4c3a315"
+      (reference "D57") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a79c93f0-5dc3-4084-80e2-ed3b41f4d95c"
+      (reference "D58") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/64de49de-68da-4424-86bc-ed95f03096fe"
+      (reference "D59") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5a1505ac-207a-4c35-b044-7175a9bbc30a"
+      (reference "D60") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/dbf2d7d9-8576-44c8-8a30-f209c0e813ed"
+      (reference "J1") (unit 1) (value "MJ-4PP-9") (footprint "Keebio-Parts:TRRS-PJ-320A")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/284405b4-4426-4702-9216-82f749987611"
+      (reference "J2") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/cd74ee4a-4d50-45a0-bf8b-12ef58f40ee3"
+      (reference "J3") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/913b1f68-bba9-4abf-a626-4f0b1124a742"
+      (reference "J4") (unit 1) (value "MJ-4PP-9") (footprint "Keebio-Parts:TRRS-PJ-320A")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ca68d6c9-24ed-48e0-a325-8209c5570e1c"
+      (reference "J5") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8b6da1dd-d264-497c-a995-5de7a0e5d6de"
+      (reference "J6") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/9defb51c-c5bf-4e4d-b283-64ec5bfb16ce"
+      (reference "K1") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/ebf476ec-b875-4fa6-a1a0-1fc998971081"
+      (reference "K2") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/f100c021-e4ad-45e4-9dc3-0cac4cf10e76"
+      (reference "K3") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/bcf754d4-5118-4471-8159-6fa4c2ddb55a"
+      (reference "K4") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/8695d599-df8a-464e-9d09-79689795393f"
+      (reference "K5") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/0019f1ce-32c0-46bb-a2ee-635ac38fd820"
+      (reference "K6") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/328890fb-10bb-462c-900f-2ae4009e6dcd"
+      (reference "K7") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/970f0e97-a5d3-4748-872d-566649408185"
+      (reference "K8") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/17d63248-c57f-442d-b357-57ad6f907e6b"
+      (reference "K9") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/476c581b-9ce1-48d4-9531-da3be9d3f201"
+      (reference "K10") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/933eda27-2606-4f18-9937-851b0cea7b48"
+      (reference "K11") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/ec206107-9b30-4c59-8b0e-6f5ede297fc6"
+      (reference "K12") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/d417aba0-29f0-414b-9f9a-f5f00d706113"
+      (reference "K13") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/5b53df22-b25e-4818-88d6-fb54c19c8c57"
+      (reference "K14") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/0d419330-b2f2-44b4-aacb-c5ea2a77db15"
+      (reference "K15") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/b79d011c-8f4b-419b-99f7-e754236be774"
+      (reference "K16") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/20f45be1-e8b0-457a-982a-261b820f1332"
+      (reference "K17") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/5864cbb2-5cb4-4981-b066-5c8e85667dd0"
+      (reference "K18") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/a8c0e03f-0c32-4bcd-8495-0d2a447a4b6f"
+      (reference "K19") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/84b51507-cedc-431c-bd4b-b27eb691ffd9"
+      (reference "K20") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/c1f64ed8-f583-4dcf-afa0-4ca084e705f2"
+      (reference "K21") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/cf730c0c-09df-4a4f-9570-e7a5cd29210b"
+      (reference "K22") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5880b968-6107-418d-8771-2d094f2b90fd"
+      (reference "K23") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8a2545d5-dc3d-4981-9aa5-ed19a4b55618"
+      (reference "K24") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/27f19976-8161-4362-8d61-6e649c2ce583"
+      (reference "K25") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6b4f6476-c6a0-4012-b2f1-453729aaf015"
+      (reference "K26") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6ae0537e-125a-4843-ade8-6b34d0623d12"
+      (reference "K27") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/babc9494-8950-4958-ab8c-a2885ac6bb05"
+      (reference "K28") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a77cfc44-6bbe-4a00-b7da-05167233642d"
+      (reference "K29") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5a48832a-f428-480c-8699-02ba3196715b"
+      (reference "K30") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/97cb8413-4d48-4a84-bee6-f748395c1c8a"
+      (reference "K31") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/2d2bcdb7-1468-4830-908d-1a0edbbd2964"
+      (reference "K32") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e1ba7c75-9fa7-41d7-96d1-a1471cdcd60a"
+      (reference "K33") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/03d7ec0e-c4cf-4f06-84dd-122a23e69831"
+      (reference "K34") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/818b2d06-98ea-44af-965b-cb9b9deb00fa"
+      (reference "K35") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3edc34b5-bc7f-4574-b471-60c8d4b93ccd"
+      (reference "K36") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8e1d3bad-1348-47ff-af3b-c68090de3faa"
+      (reference "K37") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a93fc4f2-928a-4ad6-8bd9-2a48d151e8cf"
+      (reference "K38") (unit 1) (value "KEYSW") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/239f8ebd-0d44-4e22-a704-54908027b9b9"
+      (reference "LS1") (unit 1) (value "Speaker") (footprint "Keebio-Parts:AST1109MLTRQ")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/18d1524a-f509-4a3b-bd5a-833691be39df"
+      (reference "LS2") (unit 1) (value "Speaker") (footprint "Keebio-Parts:AST1109MLTRQ")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/c9a20ae0-b5c2-4fa3-94e1-1aaee5e8b706"
+      (reference "M1") (unit 1) (value "XIAO-RP2040") (footprint "mcu:xiao-tht")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6cffc20e-7aca-470b-a325-50593f2b97d8"
+      (reference "M2") (unit 1) (value "XIAO-RP2040") (footprint "mcu:xiao-tht")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/226a4857-9314-49b1-b028-f48c6d788849"
+      (reference "R1") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/72b94d08-8a88-4d79-98c2-197b8a994de4"
+      (reference "R2") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/216a3f47-c510-411d-9508-045211a8c203"
+      (reference "R3") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/126db5df-2d8b-4f1c-8fda-6052432e38d2"
+      (reference "R4") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/0b44cb3b-146c-4517-ac70-7aa8bc4df9ad"
+      (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/d96f7428-6fdf-472b-bfa3-a18006a26b5a"
+      (reference "R6") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/5b36f694-5601-49d2-81da-3137b28958c6"
+      (reference "R7") (unit 1) (value "1.8k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/892b0324-02b1-4aee-bd11-1b2f0712ac71"
+      (reference "R8") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/289fcf10-8429-40d3-a764-a8886bc29c5f"
+      (reference "R9") (unit 1) (value "1.8k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/ed1de48c-7510-48df-8ae8-68f92cff4140"
+      (reference "R10") (unit 1) (value "2K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5dd9d6a4-bf98-416e-a312-8036d3e61e42"
+      (reference "R11") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6d604b3d-74f2-4bd8-92e5-0578faaf2e30"
+      (reference "R12") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/d164a796-0ace-4ca3-8968-3226aeed82b6"
+      (reference "R13") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6f596f36-d2bd-4095-9159-7c1f8db197e1"
+      (reference "R14") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a9745573-421a-4f86-b8f2-027d6983cfb1"
+      (reference "R15") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ab490713-88ed-4b72-aae6-4bccce6cad16"
+      (reference "R16") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8723c054-0535-48a7-af83-7671c671963b"
+      (reference "R17") (unit 1) (value "1.8") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/05ca69f2-badf-4211-8dee-6c6399fe582f"
+      (reference "R18") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/1c4495db-0c75-43a8-a2c8-5f3901f7f27a"
+      (reference "R19") (unit 1) (value "1.8k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/7df97b5d-0525-4c85-ae20-0567b1a88ec0"
+      (reference "R20") (unit 1) (value "2K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/ca0eacc2-49ed-4df8-817d-17c65e943a34"
+      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/813f6066-6921-47e3-b63a-fbccad3ee432"
+      (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11")
+    )
+    (path "/a8642825-3bf3-44d9-925d-2b665ba46461/582c12c8-5418-42d8-b766-06e7a4bfa5eb"
+      (reference "U1") (unit 1) (value "PCA9557PW") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
+    )
+    (path "/82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3af4c416-9855-4190-a528-73cd9fc6ddca"
+      (reference "U2") (unit 1) (value "PCA9557PW") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
+    )
+  )
+)

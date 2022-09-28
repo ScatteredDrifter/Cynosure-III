@@ -1,0 +1,1203 @@
+Cmp-Mod V01 Created by PcbNew   date = Sun 25 Sep 2022 19:26:14 CEST
+
+BeginCmp
+TimeStamp = 05e91f67-1ffb-4476-bf16-fc82c1698e33
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/ec206107-9b30-4c59-8b0e-6f5ede297fc6
+Reference = K12;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 063767bc-abf8-40b8-91f4-6d5f4934c000
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/cf730c0c-09df-4a4f-9570-e7a5cd29210b
+Reference = K22;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 0b76ebb9-b79d-43d3-86fb-a8a6f0c7103e
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/892b0324-02b1-4aee-bd11-1b2f0712ac71
+Reference = R8;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 0dc2dc71-43a2-4ba1-abb4-994859634dad
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8b6da1dd-d264-497c-a995-5de7a0e5d6de
+Reference = J6;
+ValeurCmp = Conn_01x04_Female;
+IdModule  = Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 1347fe0b-b1ef-4a7d-9531-d00e52eeafe1
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6ae0537e-125a-4843-ade8-6b34d0623d12
+Reference = K27;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 15189ab9-ce81-4a1e-b935-a3cf48b6ef49
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/14f0caa1-7c2e-427c-b617-27c1ae71468b
+Reference = D49;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 18fa174a-d094-4acf-affa-57bf201db407
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/dbf2d7d9-8576-44c8-8a30-f209c0e813ed
+Reference = J1;
+ValeurCmp = MJ-4PP-9;
+IdModule  = Keebio-Parts:TRRS-PJ-320A;
+EndCmp
+
+BeginCmp
+TimeStamp = 1cc3924a-e981-4174-a0a0-01e2ee8ab909
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/913b1f68-bba9-4abf-a626-4f0b1124a742
+Reference = J4;
+ValeurCmp = MJ-4PP-9;
+IdModule  = Keebio-Parts:TRRS-PJ-320A;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d0eba6b-b247-4a5e-aa36-1844e896aeab
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ab490713-88ed-4b72-aae6-4bccce6cad16
+Reference = R16;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 220726d6-8e59-4a4a-aae9-6e6db81784a1
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/72b94d08-8a88-4d79-98c2-197b8a994de4
+Reference = R2;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 24783cf1-44f4-432a-b429-e6d33563001d
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/5b36f694-5601-49d2-81da-3137b28958c6
+Reference = R7;
+ValeurCmp = 1.8k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 27bec1b1-d7ab-4c27-bf11-e32ed22591e3
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5a1505ac-207a-4c35-b044-7175a9bbc30a
+Reference = D60;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 28d036df-91ac-4fd8-ba3e-6b145c4efcac
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/970f0e97-a5d3-4748-872d-566649408185
+Reference = K8;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a361faf-e4ac-48b9-89e6-ad481821d1f5
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/5b53df22-b25e-4818-88d6-fb54c19c8c57
+Reference = K14;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 2ff8ac33-bd02-44d5-9866-062e874f2a9d
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/86bc5fbc-8e2b-470b-85ed-cd22c9c189d0
+Reference = D5;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 30cc0a85-ded8-4d27-a0b9-37508f1eefce
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/328890fb-10bb-462c-900f-2ae4009e6dcd
+Reference = K7;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 3104252b-dc0e-42e6-972b-63e4947b1a59
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/2d2bcdb7-1468-4830-908d-1a0edbbd2964
+Reference = K32;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 32ebd981-7033-49bf-b5f8-40b7156e3633
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/d96f7428-6fdf-472b-bfa3-a18006a26b5a
+Reference = R6;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3808111d-b386-4a59-a712-03ae38541586
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/0019f1ce-32c0-46bb-a2ee-635ac38fd820
+Reference = K6;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a0daf1a-576f-4e71-b9fe-342e4ec3378a
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a9745573-421a-4f86-b8f2-027d6983cfb1
+Reference = R15;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3c0d9f36-3c50-477e-8620-37f85730450b
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/226a4857-9314-49b1-b028-f48c6d788849
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3dc7917d-5802-4b22-a3c7-a07243f2f9be
+Path = 
+Reference = REF**;
+ValeurCmp = breakaway-mousebites;
+IdModule  = cipulot_kicad_parts:breakaway-mousebites;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f159fad-58e7-4ebf-b215-8e1a61ecfdf3
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/347dacbb-ba8e-49eb-aa84-f1fb9f313889
+Reference = D29;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 3fe76c13-5a40-4136-9e39-7052d1c7d195
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/ebf476ec-b875-4fa6-a1a0-1fc998971081
+Reference = K2;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 411c9724-4b5e-4ae6-9360-2adb3d7ce19a
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/ca0eacc2-49ed-4df8-817d-17c65e943a34
+Reference = SW1;
+ValeurCmp = RotaryEncoder_Switch;
+IdModule  = Keebio-Parts:RotaryEncoder_EC11;
+EndCmp
+
+BeginCmp
+TimeStamp = 416f45de-9ef5-4a1b-922e-1dc28a060682
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/818b2d06-98ea-44af-965b-cb9b9deb00fa
+Reference = K35;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 41c9f993-4ceb-40c1-95e0-459395696165
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/05ca69f2-badf-4211-8dee-6c6399fe582f
+Reference = R18;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 464f7032-94a7-4bfb-ae9f-0437f79a6a66
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8a2545d5-dc3d-4981-9aa5-ed19a4b55618
+Reference = K24;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 46fecf3f-f580-4a87-9fbd-959b8c94108a
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ca68d6c9-24ed-48e0-a325-8209c5570e1c
+Reference = J5;
+ValeurCmp = Conn_01x04_Female;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b0448fa-2469-4195-bb47-7762da5d5c8b
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/76deaeb2-92ed-4b96-a7e2-139968ae3758
+Reference = D6;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5046b1cf-30b3-4b83-b35d-2080601b4759
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/9defb51c-c5bf-4e4d-b283-64ec5bfb16ce
+Reference = K1;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 510519f4-d32b-4b65-808f-47759530bb37
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a22caff9-10e7-43d7-b407-efa5b22b6d9b
+Reference = D37;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 536616ae-f3cf-4442-8880-7d5be88afe7c
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/b0227fe0-4393-469a-b897-39c21fe5062c
+Reference = D17;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5591825b-9cd6-49e7-bef8-b7f28ad92312
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/9133d6a7-72a7-4cfa-bc7c-51dc2f1c4c09
+Reference = D8;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55ce34c3-9cda-483d-bd53-9584f8bca8d9
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/c1f64ed8-f583-4dcf-afa0-4ca084e705f2
+Reference = K21;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 55cf5e22-6638-488b-a0e5-3b62fb1496f9
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 56529851-d983-4e25-af22-4a247497b11c
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/0d19df2f-febb-4842-9daa-fe998bd02eb8
+Reference = D50;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58b90951-1f55-4188-8dac-02ec03e6099a
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 59697c74-5c4c-49cf-b878-e32a34149ea8
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/8695d599-df8a-464e-9d09-79689795393f
+Reference = K5;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 6af8af8f-f99a-479a-a19a-7af2d3fea9eb
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e1449347-1347-4646-9e06-d5e29f6dc31f
+Reference = D47;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 6c314215-4715-47e0-91c5-8cddc465deaa
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8e1d3bad-1348-47ff-af3b-c68090de3faa
+Reference = K37;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 6eac582e-9100-463b-883e-8c2ce743c578
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/284405b4-4426-4702-9216-82f749987611
+Reference = J2;
+ValeurCmp = Conn_01x04_Female;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 70fdb485-2cac-4508-bdff-69ad6523a93e
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/ed1de48c-7510-48df-8ae8-68f92cff4140
+Reference = R10;
+ValeurCmp = 2K;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 72806143-d761-417e-871c-ba4208bd7604
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/fd471553-576b-42a3-83bd-c2ad92037235
+Reference = D18;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 769e1e57-e6f1-4b4f-a99d-0886ba933047
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6cffc20e-7aca-470b-a325-50593f2b97d8
+Reference = M2;
+ValeurCmp = XIAO-RP2040;
+IdModule  = mcu:xiao-tht;
+EndCmp
+
+BeginCmp
+TimeStamp = 793ba921-fa5d-4f64-8b72-8a54f3798ed4
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/b79d011c-8f4b-419b-99f7-e754236be774
+Reference = K16;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 7c32c791-0418-423d-9e80-9c758118a2fc
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/20f45be1-e8b0-457a-982a-261b820f1332
+Reference = K17;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e08edb8-9ba6-4c2c-b6fc-9a21dd78bdf0
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 7edd1aac-d31c-44fa-83d1-cb7923955788
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/5864cbb2-5cb4-4981-b066-5c8e85667dd0
+Reference = K18;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 8088ea33-0ab5-4f3d-b0f1-57432dddd7a3
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/7df97b5d-0525-4c85-ae20-0567b1a88ec0
+Reference = R20;
+ValeurCmp = 2K;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 827acb46-1e66-44ea-a7f6-35ff3cf11015
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/b2c80c91-874c-4a14-8a63-f1c000de1f67
+Reference = D19;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 82aba9cc-fd06-4779-9f52-3d1c5941bb45
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/289fcf10-8429-40d3-a764-a8886bc29c5f
+Reference = R9;
+ValeurCmp = 1.8k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 82dbe8fe-27ad-4d68-a70e-cc2aaa340efa
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ea30170c-8974-48b1-92e0-ebbba5c21b5d
+Reference = D48;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 8408c769-3f05-4e3c-90c4-54aa8ad1ca98
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 854080f3-211d-4139-b284-fedfabdfb077
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/582c12c8-5418-42d8-b766-06e7a4bfa5eb
+Reference = U1;
+ValeurCmp = PCA9557PW;
+IdModule  = Package_SO:TSSOP-16_4.4x5mm_P0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 8d841040-6c4e-4437-afc9-6addb2a7f23b
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/239f8ebd-0d44-4e22-a704-54908027b9b9
+Reference = LS1;
+ValeurCmp = Speaker;
+IdModule  = Keebio-Parts:AST1109MLTRQ;
+EndCmp
+
+BeginCmp
+TimeStamp = 8f2e0890-e268-4a61-bcfb-06dfc7d3e62d
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/933eda27-2606-4f18-9937-851b0cea7b48
+Reference = K11;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 8f821a90-e3e6-4cf5-b39c-44c20f42cee4
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5880b968-6107-418d-8771-2d094f2b90fd
+Reference = K23;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 965aa004-379a-436f-a259-2ab66c094298
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3edc34b5-bc7f-4574-b471-60c8d4b93ccd
+Reference = K36;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 98ba24f3-a754-422c-abbd-98305346e9ee
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6f596f36-d2bd-4095-9159-7c1f8db197e1
+Reference = R14;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 9c859a97-c8be-4da5-b394-f84f6ecba2b2
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/0d419330-b2f2-44b4-aacb-c5ea2a77db15
+Reference = K15;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 9cd9aa61-6eb9-4627-98d3-0ed686a795c5
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/cd74ee4a-4d50-45a0-bf8b-12ef58f40ee3
+Reference = J3;
+ValeurCmp = Conn_01x04_Female;
+IdModule  = Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 9e1f843c-be02-4ab5-9ba1-a723484dd43c
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a79c93f0-5dc3-4084-80e2-ed3b41f4d95c
+Reference = D58;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = a02283e8-f126-440f-bcf0-d340f3f1d666
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/8723c054-0535-48a7-af83-7671c671963b
+Reference = R17;
+ValeurCmp = 1.8;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a0567379-cd1f-4145-b7e7-ffc27baf05e8
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/27f19976-8161-4362-8d61-6e649c2ce583
+Reference = K25;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = a1b9146f-0efb-436e-a0e9-6506494ec777
+Path = 
+Reference = REF**;
+ValeurCmp = breakaway-mousebites;
+IdModule  = cipulot_kicad_parts:breakaway-mousebites;
+EndCmp
+
+BeginCmp
+TimeStamp = a1dff38f-915f-4917-9be2-4577abba24ca
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/216a3f47-c510-411d-9508-045211a8c203
+Reference = R3;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a4b09c20-7885-4f5e-8cb2-0a32454635cd
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/d417aba0-29f0-414b-9f9a-f5f00d706113
+Reference = K13;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = a6d7173a-8732-4e2a-b20b-633af14b0206
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/7ce591db-9a09-494b-aa26-a566384ac06b
+Reference = D20;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = a70c9190-f708-4016-8826-fe8a5abb4547
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/8043ad6c-d682-4e19-b3f7-ee913fd019f9
+Reference = D30;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = a7d6b008-73d9-4bb6-bae1-6ae411f780ea
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5dd9d6a4-bf98-416e-a312-8036d3e61e42
+Reference = R11;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a9d13753-144a-462b-8918-5a2591f11a6a
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/476c581b-9ce1-48d4-9531-da3be9d3f201
+Reference = K10;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = adce1184-5432-4337-8a2f-4750bf0179be
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/09a4ce34-ad86-4c32-8b6d-2a6c6a6b4c8c
+Reference = D7;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = b2bf3ca5-df51-4920-a9a1-7c36532c413b
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/d164a796-0ace-4ca3-8968-3226aeed82b6
+Reference = R13;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b4626607-3bf3-40d7-b528-316350c63e0b
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/5a48832a-f428-480c-8699-02ba3196715b
+Reference = K30;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = b4f3b49d-a799-4d84-8860-93ad027dcc26
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/18d1524a-f509-4a3b-bd5a-833691be39df
+Reference = LS2;
+ValeurCmp = Speaker;
+IdModule  = Keebio-Parts:AST1109MLTRQ;
+EndCmp
+
+BeginCmp
+TimeStamp = b5d9eda1-6fa5-4924-aa7f-620195707761
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/97cb8413-4d48-4a84-bee6-f748395c1c8a
+Reference = K31;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = b77c57fe-791f-4f3b-bb6e-dd156fcd7530
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/f100c021-e4ad-45e4-9dc3-0cac4cf10e76
+Reference = K3;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = b83363ee-3f1a-438c-aeeb-3550716083f5
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/64de49de-68da-4424-86bc-ed95f03096fe
+Reference = D59;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = b94e618a-4b3d-40da-a039-efeb7a0cc23f
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/babc9494-8950-4958-ab8c-a2885ac6bb05
+Reference = K28;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = bac1c904-74d4-4891-9fcd-15facdfe0f09
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/126db5df-2d8b-4f1c-8fda-6052432e38d2
+Reference = R4;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bc04618f-6141-4213-98de-1363db7ab848
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = bfeaf608-1603-4c82-91c0-e687a651cc96
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/84b51507-cedc-431c-bd4b-b27eb691ffd9
+Reference = K20;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = c1877ede-71ae-4954-a0ab-d035db73bf19
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/c9a20ae0-b5c2-4fa3-94e1-1aaee5e8b706
+Reference = M1;
+ValeurCmp = XIAO-RP2040;
+IdModule  = mcu:xiao-tht;
+EndCmp
+
+BeginCmp
+TimeStamp = c1a9efd2-d6ce-4e60-b65c-7dbd94b4c3b1
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/813f6066-6921-47e3-b63a-fbccad3ee432
+Reference = SW2;
+ValeurCmp = RotaryEncoder_Switch;
+IdModule  = Keebio-Parts:RotaryEncoder_EC11;
+EndCmp
+
+BeginCmp
+TimeStamp = c4f4205d-8fef-4a5c-9d92-255913b1191b
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/03d7ec0e-c4cf-4f06-84dd-122a23e69831
+Reference = K34;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = c8e00280-95ea-47bd-b76f-61b5b6592f5b
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/742903db-a9c3-4f98-a4e7-4ec6ee2a753b
+Reference = D35;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = cacba78d-0824-4d44-b0bf-77f95f226f03
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a93fc4f2-928a-4ad6-8bd9-2a48d151e8cf
+Reference = K38;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = cc4a2c25-4d77-4a95-a9d7-e696c43199dd
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3af4c416-9855-4190-a528-73cd9fc6ddca
+Reference = U2;
+ValeurCmp = PCA9557PW;
+IdModule  = Package_SO:TSSOP-16_4.4x5mm_P0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = cedb9f63-0f07-4784-a454-a2f073ef5650
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a77cfc44-6bbe-4a00-b7da-05167233642d
+Reference = K29;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = d10faac2-0464-4bc4-baff-d231fc4b96ce
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = d2cbad25-d6ee-4496-8bc2-babca21a9be9
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e1ba7c75-9fa7-41d7-96d1-a1471cdcd60a
+Reference = K33;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = d5ab7c9b-b343-48e2-846b-11d3654e1959
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/bcf754d4-5118-4471-8159-6fa4c2ddb55a
+Reference = K4;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = d5c18e1b-e5a2-4a01-8ced-18897955c276
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = d88167e6-9762-4242-91ae-f3f4c709af8e
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/1c4495db-0c75-43a8-a2c8-5f3901f7f27a
+Reference = R19;
+ValeurCmp = 1.8k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e14bb57c-390f-4000-8cd2-f1b35b6c5c80
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/04e2b669-25b3-40f2-974b-f8552ed9db0a
+Reference = D38;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = e273037b-46fd-4718-9ade-0fb61083c052
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/0b44cb3b-146c-4517-ac70-7aa8bc4df9ad
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e3d4656e-0183-4324-813d-5efea36725e9
+Path = 
+Reference = REF**;
+ValeurCmp = breakaway-mousebites;
+IdModule  = cipulot_kicad_parts:breakaway-mousebites;
+EndCmp
+
+BeginCmp
+TimeStamp = e7488f29-c7d1-44fd-a03b-4636a520e09b
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ca700f30-4cb6-43a7-b585-134430f4d1b7
+Reference = D36;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = e7a94de6-8cce-43c7-a9b4-ecacba284f70
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/67578933-290b-4e5b-9cd6-9cd2e05ac282
+Reference = D28;
+ValeurCmp = BAV70;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = e97bc3af-9da2-4eaf-bb83-c570692642d0
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/a8c0e03f-0c32-4bcd-8495-0d2a447a4b6f
+Reference = K19;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = f2d69b5e-46be-479a-b9fd-fe4813565732
+Path = 
+Reference = REF**;
+ValeurCmp = breakaway-mousebites;
+IdModule  = cipulot_kicad_parts:breakaway-mousebites;
+EndCmp
+
+BeginCmp
+TimeStamp = f4d514fc-a97c-433d-a458-d08351e98f69
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6b4f6476-c6a0-4012-b2f1-453729aaf015
+Reference = K26;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = f65d8eee-5b97-4f49-966f-9763ae16aca2
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/17d63248-c57f-442d-b357-57ad6f907e6b
+Reference = K9;
+ValeurCmp = KEYSW;
+IdModule  = Keebio-Parts:MX-Alps-Choc-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = f8ecfd8e-af9a-4e5e-b7a6-6184c004ca66
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = fb52c19a-e0cb-4446-91a6-dffb30eb6877
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = fe3a1030-f556-4de7-97cd-d2fdc770591c
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/6d604b3d-74f2-4bd8-92e5-0578faaf2e30
+Reference = R12;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 0301f900-2e20-46b4-b784-2922868327f3
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/e61302d3-3e0c-4ca6-b2b7-d0e6d0cd71f0
+Reference = D11;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 0b0b3e3d-ae71-4ba6-99dc-08f221600b3e
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/108754b4-b745-41f1-842c-a5ebeeb07c6b
+Reference = D33;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 169e5157-df04-46f5-8d86-256f2da3d5bd
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 1bc06877-c9af-4f38-81f8-118424e8e0d6
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/cf2bddb8-cd43-4cab-8dd1-1d8a54d67bb7
+Reference = D52;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f63b0d0-8516-4c13-8fe9-6bb8eb8e0f5b
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 2332781e-bd58-4ad2-888c-927cae69b176
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/9dab5cfb-2232-4999-a2e0-ff2a4dff7dd7
+Reference = D53;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 23aab3b3-9737-4c24-84ea-4e42889a354c
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/1859dd5c-22ee-4675-ae49-0a2d0d545dd3
+Reference = D39;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 27628dfc-7b58-4aa5-bb0f-c3918d0d4594
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3cbcb9e6-87ed-4de6-9ea0-e4e1dcd9a411
+Reference = D51;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f1d9d67-774f-4e01-a995-12a86ebdc25d
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/10c1ac9c-8273-4b66-8e96-1fac164b56de
+Reference = D16;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 35d051b8-b5a4-48d9-89d1-fc55dfe361c9
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/fbfbc974-3aab-45f1-8676-d14e07919d4a
+Reference = D43;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 37146629-9566-4dec-b014-286f9deb8d42
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/d34c55b2-d125-45c8-bd48-539683663512
+Reference = D4;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a56b097-a2bb-403d-98cf-032c46f732d7
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e698294f-b5a7-4c19-b15f-cffc3400b605
+Reference = D56;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ed82478-6dcf-453b-8f1d-67bf6a8c44b8
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/8fef2216-0748-4a59-bc0d-3fa1f6d701cc
+Reference = D24;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 46641891-0e94-4796-853c-905c1fa441ee
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/f7563c12-b637-4d40-b20a-c121b0bf426b
+Reference = D32;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 49d8c8a8-bb5e-4e63-8066-c3532cf1818e
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/d532c13e-9b49-4148-92d1-929f84d0f869
+Reference = D22;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 54f6b26f-d407-483f-8e3b-b9e4146c9c81
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/9d61f9a5-05e8-4806-82d4-4f56ea5906a8
+Reference = D3;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 5914ee86-fbba-46cb-a5cc-1f7788332b22
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/9e463262-bcfd-48ca-b8e9-f01df6b84473
+Reference = D23;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 5d6f70a4-c959-409f-bb5e-7c74f6390b18
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/496b1d3e-ed15-41f8-b31b-2f74fa72f36a
+Reference = D44;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 6dae4aad-84a5-4a41-b91e-64c4eafcb18d
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 7a099e65-5d68-4045-ad3f-f1ce8601716d
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/3fec230c-b1d8-4502-a72b-cd0aa9b04667
+Reference = D54;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 845a0196-e61e-4137-a5f3-94687d858bb3
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/da49e0e3-8519-4589-ba77-380a860a6ac7
+Reference = D1;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 876eb64a-e8ae-40ef-a3a2-8c31fcdb9f92
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/a1d0e80c-fe43-44cc-9eff-d4c04b626311
+Reference = D31;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 8e9c91ca-8e6d-442c-9660-111b34963622
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/f81d3fa5-f475-4346-a764-ac406f43f60b
+Reference = D14;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 9652465b-dca9-4e91-89e1-9ffeecad0968
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/bce8ae14-3c2a-4a41-b725-6e9c98f1ad98
+Reference = D45;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 9bde05f1-93ab-4875-865f-2ab219e17111
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/47e5c93a-c804-4335-af1f-1744008829c3
+Reference = D2;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = 9dc602e9-900f-4b63-b653-c2e255dc7bec
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/7527cee7-d41c-412f-bb52-7fcec4c3a315
+Reference = D57;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = a2fe06bf-e851-4af7-a958-113ba315d17e
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/26b40b37-7ade-4eff-9397-9b61bfcfc958
+Reference = D40;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = a910df73-d9c8-492e-8b0c-89fb66748d5f
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = a9658912-0819-441c-9476-3ba96bd1478a
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/d8cef00e-1fa7-49a5-aea3-677ad57698f5
+Reference = D41;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = ac3c702c-7871-407d-af58-2abab8c80514
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/7b4e1df3-0f03-41fc-aaf6-6f7a072c20cd
+Reference = D12;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = ac8201ab-2c7b-4564-8d9e-f91fb66f5f38
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = b41e1aa2-fcd6-42c4-9acb-747135edeaa9
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/c1f07e5c-ec12-4efa-b253-c4a661fd5705
+Reference = D26;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = b6dadcaf-3ac8-4181-a8a6-75c1b04bf3b6
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/cfcc45c2-e3f3-4331-b9fe-bcfce6e67b99
+Reference = D15;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = bc376dea-077b-49af-80b8-2fed2a13c0f2
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/ceee7736-ca21-46bd-9c16-8a6fba196f08
+Reference = D42;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = bdde6d89-5757-4856-998b-4ede8ef17ad2
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/3b836a4e-e911-4259-a4fa-7aa505742749
+Reference = D13;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = c98ffb80-bb3c-44ff-b3c1-4b67d20811f0
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/ac603862-20c9-4104-b33c-a0d7b7674063
+Reference = D25;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = ccfdddcb-20f6-412c-ba5d-e7d843d0b876
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/2724aadd-e449-499a-aa59-f6f17c1cbacc
+Reference = D55;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = d1bb9846-0405-46a3-87aa-a2c564efa399
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/0f9400f5-cff8-4e27-a13c-48c4ee07a619
+Reference = D9;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = d4096a52-ab35-43ab-96e3-dfb24fe3c41f
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/e7848afc-14dc-440a-b6f3-cdfb7a8052e2
+Reference = D46;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = dddc5805-edf2-4406-9a9a-af6f1200d934
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/964e43f1-d9b1-4a1f-a08c-ba0b7f8ace2e
+Reference = D21;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = e3cfee30-bd73-4052-934c-63415e54743f
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/6807100f-a5ec-4a37-94c6-34fa294b9e4b
+Reference = D27;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = e818c5e3-33b2-4675-83fa-10f668b2f041
+Path = /82f42e83-3f9c-4cda-a94c-dd1e5e6a4443/f7769905-b3a3-4894-8245-dd3784fe730f
+Reference = D34;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+BeginCmp
+TimeStamp = f93fbf03-57fd-444d-ad48-0fe60e14a3cd
+Path = /a8642825-3bf3-44d9-925d-2b665ba46461/346a7930-e0e9-4944-b8aa-d01b15eb16ba
+Reference = D10;
+ValeurCmp = SK6812MINI;
+IdModule  = Keebio-Parts:SK6812-MINI-E;
+EndCmp
+
+EndListe
